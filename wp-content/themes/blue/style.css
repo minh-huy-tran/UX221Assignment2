@@ -1,0 +1,16 @@
+/*
+Theme Name:     blue
+Description:    a blue theme
+Author:         minhhuytran
+Template:       twentytwenty
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+header a{
+    color:#2051ad;
+}
+
+footer-menu-wrapper a{
+    color:#2051ad;
+}
