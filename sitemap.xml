@@ -7,6 +7,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/bichon-frise/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/pomeranian/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -22,7 +32,17 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/blog/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/blog/
         </loc>
     </url>
     <url>
